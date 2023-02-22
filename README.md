@@ -9,9 +9,9 @@
 
 <h2 align="left">Languages and Tools I Use</h2>
 
-| Android | C# | Firebase | Kotlin | Linux |
-| :-: | :-: | :-: | :-: | :-: |
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>|
+| Android | C# | Firebase | Kotlin | Linux | Android Studio | Visual Studio | Postman |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>|<img align="center" src="https://img.icons8.com/color/256/android-studio--v3.png" alt="AndroidStudio" width="40" height="40"/>|<img align="center" src="https://img.icons8.com/color/256/visual-studio--v2.png" alt="VisualStudio" width="40" height="40"/>|<img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" width="40" height="40"/>|
 
 <h2 align="left">Design Tools I Use</h2>
 

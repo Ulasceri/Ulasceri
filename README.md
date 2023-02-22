@@ -4,8 +4,7 @@
 <p align="center">
 	<a href="mailto:ulas.ceri@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/1363/1363019.png" alt="Gmail" width = "60" hight = "60"/></a>
 	<a href="https://www.linkedin.com/in/ulasceri/"><img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" alt="LinkedIn" width = "60" hight = "60"/></a>
-	<a href="https://www.instagram.com/ceriulas/"><img src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="Instagram" width = "60" hight = "60"/></a>
-	<a href="https://wa.me/+905308682662"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670051.png" alt="Whatsapp" width = "60" hight = "60"/></a>
+	
 </p>
 
 <h2 align="left">Languages and Tools I Use</h2>

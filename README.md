@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&weight=900&size=28&duration=4000&pause=800&color=767676&background=FFFCF900&center=true&vCenter=true&width=440&height=80&lines=Hi%2C+I'm+Android+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Shantell+Sans&weight=900&size=25&duration=4000&pause=800&color=767676&background=FFFCF900&center=true&vCenter=true&width=440&height=80&lines=Hi%2C+I'm+Android+Developer+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
 	<a href="mailto:ulas.ceri@outlook.com"><img src="https://cdn-icons-png.flaticon.com/512/1363/1363019.png" alt="Gmail" width = "60" hight = "60"/></a>
